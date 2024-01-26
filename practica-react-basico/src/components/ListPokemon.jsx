@@ -17,12 +17,15 @@ export default function ListPokemon(props) {
       <div>
         <span>Id: {pokemonList.id}</span>
       </div>
+      <br />
       <div>
         <span>Name: {pokemonList.name}</span>
       </div>
+      <br />
       <div>
         <span>Url: {pokemonList.url}</span>
       </div>
+      <br />
     </div>
   );
 }
