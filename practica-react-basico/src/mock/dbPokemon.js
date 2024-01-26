@@ -1,7 +1,7 @@
 export let pokemons = [
   {
     id: 0,
-    name: "ivysaur",
+    name: "IVYSAUR",
     url: "https://pokeapi.co/api/v2/pokemon/2/",
     details: {
       height: 10,
@@ -11,7 +11,7 @@ export let pokemons = [
   },
   {
     id: 1,
-    name: "venusaur",
+    name: "VENUSAUR",
     url: "https://pokeapi.co/api/v2/pokemon/3/",
     details: {
       height: 20,
@@ -21,7 +21,7 @@ export let pokemons = [
   },
   {
     id: 2,
-    name: "charmander",
+    name: "CHARMANDER",
     url: "https://pokeapi.co/api/v2/pokemon/4/",
     details: {
       height: 6,
@@ -31,7 +31,7 @@ export let pokemons = [
   },
   {
     id: 3,
-    name: "charmeleon",
+    name: "CHARMELEON",
     url: "https://pokeapi.co/api/v2/pokemon/5/",
     details: {
       height: 11,
@@ -41,7 +41,7 @@ export let pokemons = [
   },
   {
     id: 4,
-    name: "charizard",
+    name: "CHARIZARD",
     url: "https://pokeapi.co/api/v2/pokemon/6/",
     details: {
       height: 17,
@@ -51,7 +51,7 @@ export let pokemons = [
   },
   {
     id: 5,
-    name: "squirtle",
+    name: "SQUIRTLE",
     url: "https://pokeapi.co/api/v2/pokemon/7/",
     details: {
       height: 5,
@@ -61,7 +61,7 @@ export let pokemons = [
   },
   {
     id: 6,
-    name: "wartortle",
+    name: "WARTORTLE",
     url: "https://pokeapi.co/api/v2/pokemon/8/",
     details: {
       height: 10,
@@ -71,7 +71,7 @@ export let pokemons = [
   },
   {
     id: 7,
-    name: "blastoise",
+    name: "BLASTOISE",
     url: "https://pokeapi.co/api/v2/pokemon/9/",
     details: {
       height: 16,
@@ -81,7 +81,7 @@ export let pokemons = [
   },
   {
     id: 8,
-    name: "caterpie",
+    name: "CATERPIE",
     url: "https://pokeapi.co/api/v2/pokemon/10/",
     details: {
       height: 3,
@@ -91,7 +91,7 @@ export let pokemons = [
   },
   {
     id: 9,
-    name: "metapod",
+    name: "METAPOD",
     url: "https://pokeapi.co/api/v2/pokemon/11/",
     details: {
       height: 7,

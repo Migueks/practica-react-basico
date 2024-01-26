@@ -36,13 +36,13 @@ export default function Home() {
         </li>
       </ul>
       <hr />
-      <h1>Todos los Pokémons</h1>
+      <h1 className="title-pokemon">Todos los Pokémons</h1>
       {pokemons.map((pokemon, index) => {
         return (
-          <div key={index}>
-            <span>{pokemon.id}</span>
-            <br />
+          <div className="list-pokemon" key={index}>
             <span>{pokemon.nombre} </span>
+            <br />
+            <span>{pokemon.id}</span>
             <br />
             <span>{pokemon.url} </span>
             <br />
