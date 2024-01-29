@@ -1,8 +1,53 @@
 .title-pokemon {
   text-align: center;
   font-family: "Georgia";
+  border: 1px green;
+  border-style: solid;
+  background-color: rgb(221, 236, 221);
+  color: rgb(41, 91, 2);
 }
 
 .list-pokemon {
   text-align: center;
+  border: 1px green;
+  border-style: solid;
+  background-color: rgb(221, 236, 221);
+}
+
+.header {
+  text-align: center;
+  list-style: none;
+  display: flex;
+  background-color: rgb(228, 195, 195);
+  border: 1px red;
+  border-style: solid;
+  color: yellow;
+  gap: 30px;
+}
+
+.header-list {
+  padding-top: 32px;
+  font-weight: bold;
+}
+
+.image {
+  height: 5%;
+}
+
+.header-nav {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.header-nav-list {
+  font-weight: bold;
+}
+
+.poke-img {
+  height: 20px;
+  padding-top: 32px;
 }
